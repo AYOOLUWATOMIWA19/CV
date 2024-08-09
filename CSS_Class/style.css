@@ -1,0 +1,32 @@
+.title{
+    margin:0;
+    padding:0;
+}
+
+.title h1 {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    color: purple;
+    width: 300px;
+    text-shadow: 4px 3px grey;
+    font-size: x-large;
+}
+.title h1 + p{
+    color: blue;
+    width: 300px;
+    margin: 20px;
+    text-align: left;
+    text-decoration: none;
+    text-indent:20px;
+    letter-spacing: 0.8px;
+    line-height: 20px;
+    word-spacing: 1.0px;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    
+
+
+}
